@@ -1,0 +1,100 @@
+.navbar img{
+    width: 64px;
+    height: 38px;
+}
+.navbar{
+   
+    margin-top: 3% !important;
+}
+.navbar h1{
+    
+    font-size: 1.14286em;
+    color: white;
+    font-weight: 700;
+    line-height: normal;
+   
+}
+.navbar small{
+    font-size: 0.7142857143em;
+    display: block;
+    color: #bfc1c8   
+}
+.input-group {
+    margin-top: 9% !important;
+}
+body{
+    
+    background-image: url(banner.png);
+    background-repeat: no-repeat;
+    background-position: center ;
+    background-color: #1E202B;
+   
+    font-family: "Roboto", "Open Sans", sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 1.5;
+}
+
+nav li a{
+    color: white !important;
+    font-weight: 400 !important;
+    padding: 5px 25px !important;
+    border-width: 2px !important;
+    border-style: solid !important;
+    border-color: transparent ;
+    border-image: initial !important;
+    border-radius: 30px !important;
+    
+}
+
+nav li:hover a{
+    color: rgb(0, 154, 216) !important;
+    border-color: rgb(0, 154, 216) !important;
+}
+nav li .active{
+    color: rgb(0, 154, 216) !important;
+    border-color: rgb(0, 154, 216) !important;
+}
+.search{
+    margin-top: 7%;
+}
+input{
+    width: 100% !important;
+    color: white !important;
+    padding: 20px 50px 20px 20px !important;
+    background: rgb(30, 32, 43) !important;
+    border-radius: 30px !important;
+}
+button{
+    position: absolute !important;
+    top: 5px !important;
+    right: 5px !important;
+    bottom: 5px !important;
+    padding: 0px 40px !important;
+    color: white !important;
+    width: 120px;
+    border-width: initial !important;
+    border-style: none !important;
+    border-color: initial !important;
+    border-image: initial !important;
+    background: rgb(0, 154, 216) !important;
+    padding: 10px 20px !important;
+    border-radius: 30px !important;
+}
+#today, #tomorrow ,#af_tomo{
+    background-color: #323544;
+    color:#BFC1C8;
+}
+#today h1{
+    color: white;
+    font-size: xx-large;
+}
+.header-card{
+    background-color: #2D303D;
+}
+.footer{
+    background-color: #2D303D;
+    margin-top: 5% !important;
+}
+
+
